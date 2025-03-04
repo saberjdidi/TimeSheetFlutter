@@ -6,6 +6,7 @@ class TRoutes {
   static const signup = '/signup';
   static const dashboard = '/dashboard';
   static const media = '/media';
+  static const equipe = '/equipe';
 
   static const categories = '/categories';
   static const createCategory = '/createCategory';
